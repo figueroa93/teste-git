@@ -1,2 +1,2 @@
 olá meu nome é natália
-
+estou aprendendo a usar o git
